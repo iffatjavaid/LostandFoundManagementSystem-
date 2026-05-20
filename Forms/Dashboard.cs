@@ -1,10 +1,9 @@
-﻿//using IMFproject.Forms;
-using IMFproject.Database;
+﻿using IMFproject.Database;
 using System;
 using System.Data;
 using System.Data.SQLite;
 using System.Windows.Forms;
-
+//Main dashboard Layout::
 namespace IMFproject
 {
     public partial class Dashboard : Form
