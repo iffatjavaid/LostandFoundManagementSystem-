@@ -3,7 +3,7 @@ using System.Data;
 using System.Data.SQLite;
 using System.IO;
 using System.Windows.Forms;
-
+//Database helper class for Managing connections
 /// NuGet packages needed:
 /// System.Data.SQLite.Core
 /// BCrypt.Net-Next
