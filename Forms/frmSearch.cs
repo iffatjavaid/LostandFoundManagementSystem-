@@ -2,7 +2,7 @@
 using IMFproject.Models;
 using System;
 using System.Windows.Forms;
-
+//SQL injection prevention implemented here
 namespace IMFproject
 {
     public partial class frmSearch : Form
