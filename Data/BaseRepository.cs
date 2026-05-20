@@ -4,7 +4,7 @@ using System.Data.SQLite;
 namespace IMFproject.Database
 {
     /// <summary>
-    /// Base class for all Repository classes.
+    // Base class for all Repository classes.
     /// Uses DBHelper for all database connections.
     /// All repositories inherit from this class.
     /// </summary>
