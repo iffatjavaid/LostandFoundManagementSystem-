@@ -2,7 +2,7 @@
 using IMFproject.Models;
 using System;
 using System.Windows.Forms;
-
+//Login with BCrypt authentication
 namespace IMFproject
 {
     public partial class LoginForm : Form
