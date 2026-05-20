@@ -2,8 +2,8 @@
 using IMFproject.Models;
 using System;
 using System.Windows.Forms;
-
 namespace IMFproject
+//Duplicate Username safety Checks
 {
     public partial class frmManageUsers : Form
     {
